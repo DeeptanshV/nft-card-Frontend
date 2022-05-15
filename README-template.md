@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Click Here](https://github.com/DeeptanshV/nft-card-Frontend)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [lick Here](https://deeptanshv.github.io/nft-card-Frontend/)
 
 ## My process
 
